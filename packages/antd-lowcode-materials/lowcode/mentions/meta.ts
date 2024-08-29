@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Mentions',
   title: '提及',
-  category: '表单',
+  group: 'antd',
+category: '表单',
   props: [
     {
       name: 'defaultValue',

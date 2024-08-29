@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Spin',
   title: '加载中',
-  category: '反馈',
+  group: 'antd',
+category: '反馈',
   props: [
     {
       name: 'delay',

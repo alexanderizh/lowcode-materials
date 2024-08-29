@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Anchor.Link',
   title: '锚点链接',
-  category: '其他',
+  group: 'antd',
+category: '其他',
   props: [
     {
       name: 'href',

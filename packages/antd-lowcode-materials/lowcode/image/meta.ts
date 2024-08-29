@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Image',
   title: '图片',
-  category: '数据展示',
+  group: 'antd',
+category: '数据展示',
   props: [
     {
       name: 'src',

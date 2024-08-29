@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Upload',
   title: '上传',
-  category: '表单',
+  group: 'antd',
+category: '表单',
   props: [
     {
       title: '基本',

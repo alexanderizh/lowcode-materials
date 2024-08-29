@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Input.Group',
   title: '输入框组合',
-  category: '表单',
+  group: 'antd',
+category: '表单',
   props: [
     {
       name: 'compact',

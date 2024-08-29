@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Affix',
   title: '固钉',
-  category: '导航',
+  group: 'antd',
+category: '导航',
   props: [
     {
       name: 'offsetBottom',

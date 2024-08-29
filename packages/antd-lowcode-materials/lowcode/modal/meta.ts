@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Modal',
   title: '对话框',
-  category: '反馈',
+  group: 'antd',
+category: '反馈',
   props: [
     {
       name: 'title',

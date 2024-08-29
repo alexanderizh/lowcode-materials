@@ -5,7 +5,8 @@ export default {
   snippets,
   componentName: 'Icon',
   title: '图标',
-  category: '通用',
+  group: 'antd',
+category: '通用',
   props: [
     {
       name: 'className',

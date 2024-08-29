@@ -6,7 +6,8 @@ export const itemsExtraProps = {
       const key = child.getPropValue('key') ? String(child.getPropValue('key')) : child.id;
       const result = {
         key,
-        category: child.componentName,
+        group: 'antd',
+category: child.componentName,
       };
       ['children', 'items', 'title'].forEach((propKey) => {
         if (child.getPropValue(propKey)) {
@@ -72,7 +73,8 @@ export const itemsExtraProps = {
                       : [
                           {
                             key: `item-${uuid()}`,
-                            category: 'Menu.Item',
+                            group: 'antd',
+category: 'Menu.Item',
                             children: '子菜单名',
                           },
                         ],

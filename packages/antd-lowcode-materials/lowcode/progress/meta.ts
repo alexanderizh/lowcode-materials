@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Progress',
   title: '进度条',
-  category: '反馈',
+  group: 'antd',
+category: '反馈',
   props: [
     {
       name: 'type',

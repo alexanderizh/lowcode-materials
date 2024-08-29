@@ -1,7 +1,8 @@
 export default {
   componentName: 'List.Item.Meta',
   title: '列表项内容',
-  category: '',
+  group: 'antd',
+category: '',
   props: [
     {
       name: 'avatar',

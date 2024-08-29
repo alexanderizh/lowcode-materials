@@ -6,7 +6,8 @@ export default {
   snippets,
   componentName: 'Timeline',
   title: '时间轴',
-  category: '数据展示',
+  group: 'antd',
+category: '数据展示',
   props: [
     {
       name: 'steps',

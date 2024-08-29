@@ -6,7 +6,8 @@ export default {
   snippets,
   componentName: 'Carousel',
   title: '走马灯',
-  category: '数据展示',
+  group: 'antd',
+category: '数据展示',
   props: [
     {
       name: 'afterChange',

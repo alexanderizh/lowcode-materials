@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Badge',
   title: '徽标数',
-  category: '数据展示',
+  group: 'antd',
+category: '数据展示',
   props: [
     {
       name: 'color',

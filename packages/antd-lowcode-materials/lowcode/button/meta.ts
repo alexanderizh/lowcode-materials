@@ -3,7 +3,8 @@ import snippets from './snippets';
 export default {
   componentName: 'Button',
   title: '按钮',
-  category: '通用',
+  group: 'antd',
+category: '通用',
   props: [
     {
       title: '功能',

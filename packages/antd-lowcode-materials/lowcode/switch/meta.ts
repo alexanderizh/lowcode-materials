@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Switch',
   title: '开关',
-  category: '表单',
+  group: 'antd',
+category: '表单',
   props: [
     {
       name: 'defaultChecked',

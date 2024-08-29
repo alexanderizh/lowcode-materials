@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'List',
   title: '列表',
-  category: '数据展示',
+  group: 'antd',
+category: '数据展示',
   props: [
     {
       title: '数据源',

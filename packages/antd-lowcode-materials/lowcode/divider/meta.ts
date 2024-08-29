@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Divider',
   title: '分割线',
-  category: '布局',
+  group: 'antd',
+category: '布局',
   props: [
     {
       name: 'className',

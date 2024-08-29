@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Popconfirm',
   title: '气泡确认框',
-  category: '反馈',
+  group: 'antd',
+category: '反馈',
   props: [
     {
       name: 'title',

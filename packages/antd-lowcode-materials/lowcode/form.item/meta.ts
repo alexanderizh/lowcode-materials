@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Form.Item',
   title: '表单项',
-  category: '表单',
+  group: 'antd',
+category: '表单',
   props: [
     {
       name: 'name',

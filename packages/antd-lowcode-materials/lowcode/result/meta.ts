@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Result',
   title: '结果',
-  category: '反馈',
+  group: 'antd',
+category: '反馈',
   props: [
     {
       name: 'title',

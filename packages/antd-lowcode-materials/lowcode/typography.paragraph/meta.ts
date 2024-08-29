@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Typography.Paragraph',
   title: '段落',
-  category: '基础',
+  group: 'antd',
+category: '基础',
   props: [
     {
       name: 'children',

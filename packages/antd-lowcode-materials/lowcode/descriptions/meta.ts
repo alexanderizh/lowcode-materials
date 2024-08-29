@@ -6,7 +6,8 @@ export default {
   snippets,
   componentName: 'Descriptions',
   title: '描述列表',
-  category: '数据展示',
+  group: 'antd',
+category: '数据展示',
   props: [
     {
       name: 'title',

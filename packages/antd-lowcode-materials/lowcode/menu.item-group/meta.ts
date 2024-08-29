@@ -69,7 +69,8 @@ export default {
             initialValue: () => {
               return {
                 key: `item-${uuid()}`,
-                category: 'Menu.Item',
+                group: 'antd',
+category: 'Menu.Item',
                 children: '子菜单名',
               };
             },

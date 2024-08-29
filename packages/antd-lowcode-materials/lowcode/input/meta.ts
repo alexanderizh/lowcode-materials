@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Input',
   title: '输入框',
-  category: '表单',
+  group: 'antd',
+category: '表单',
   props: [
     {
       name: 'defaultValue',

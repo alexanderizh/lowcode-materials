@@ -6,7 +6,8 @@ export default {
   snippets,
   componentName: 'Select',
   title: '选择器',
-  category: '表单',
+  group: 'antd',
+category: '表单',
   props: [
     {
       name: 'defaultValue',

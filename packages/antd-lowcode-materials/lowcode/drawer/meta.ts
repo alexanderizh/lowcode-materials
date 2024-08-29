@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Drawer',
   title: '抽屉',
-  category: '反馈',
+  group: 'antd',
+category: '反馈',
   props: [
     {
       title: '基础',

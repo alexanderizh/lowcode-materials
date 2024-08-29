@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Breadcrumb',
   title: '面包屑',
-  category: '导航',
+  group: 'antd',
+category: '导航',
   props: [
     {
       title: '基础',

@@ -5,7 +5,8 @@ export default {
   snippets,
   componentName: 'Form',
   title: '表单容器',
-  category: '表单',
+  group: 'antd',
+category: '表单',
   props: [
     {
       name: 'ref',

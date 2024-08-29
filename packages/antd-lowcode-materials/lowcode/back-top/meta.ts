@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'BackTop',
   title: '回到顶部',
-  category: '其他',
+  group: 'antd',
+category: '其他',
   props: [
     {
       name: 'target',

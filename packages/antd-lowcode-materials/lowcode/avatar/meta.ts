@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Avatar',
   title: '头像',
-  category: '数据展示',
+  group: 'antd',
+category: '数据展示',
   props: [
     {
       name: 'icon',

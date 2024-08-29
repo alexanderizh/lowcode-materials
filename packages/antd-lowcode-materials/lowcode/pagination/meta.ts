@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Pagination',
   title: '分页',
-  category: '导航',
+  group: 'antd',
+category: '导航',
   props: [
     {
       title: '数据',

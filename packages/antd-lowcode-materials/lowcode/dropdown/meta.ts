@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Dropdown',
   title: '下拉菜单',
-  category: '导航',
+  group: 'antd',
+category: '导航',
   props: [
     {
       name: 'open',

@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Tag',
   title: '标签',
-  category: '数据展示',
+  group: 'antd',
+category: '数据展示',
   props: [
     {
       name: 'children',

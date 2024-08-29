@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Skeleton',
   title: '骨架屏',
-  category: '反馈',
+  group: 'antd',
+category: '反馈',
   props: [
     {
       name: 'active',

@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Slider',
   title: '滑动输入条',
-  category: '表单',
+  group: 'antd',
+category: '表单',
   props: [
     {
       name: 'defaultValue',

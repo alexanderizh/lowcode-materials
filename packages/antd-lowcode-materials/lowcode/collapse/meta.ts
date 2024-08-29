@@ -6,7 +6,8 @@ export default {
   snippets,
   componentName: 'Collapse',
   title: '折叠面板',
-  category: '数据展示',
+  group: 'antd',
+category: '数据展示',
   props: [
     {
       name: 'bordered',

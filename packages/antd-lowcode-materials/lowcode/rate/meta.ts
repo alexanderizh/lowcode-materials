@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Rate',
   title: '评分',
-  category: '表单',
+  group: 'antd',
+category: '表单',
   props: [
     {
       name: 'defaultValue',

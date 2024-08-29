@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'ConfigProvider',
   title: '全局化配置',
-  category: '其他',
+  group: 'antd',
+category: '其他',
   props: [
     {
       name: 'autoInsertSpaceInButton',

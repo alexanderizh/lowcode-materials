@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'PageHeader',
   title: '页头',
-  category: '导航',
+  group: 'antd',
+category: '导航',
   props: [
     {
       name: 'title',

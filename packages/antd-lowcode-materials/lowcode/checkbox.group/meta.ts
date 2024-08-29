@@ -3,7 +3,8 @@ import { uuid } from '../_utils/utils';
 export default {
   componentName: 'Checkbox.Group',
   title: '多选框组',
-  category: '表单',
+  group: 'antd',
+category: '表单',
   props: [
     {
       name: 'defaultValue',

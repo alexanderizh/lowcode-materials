@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Input.Password',
   title: '密码框',
-  category: '表单',
+  group: 'antd',
+category: '表单',
   props: [
     {
       name: 'defaultValue',

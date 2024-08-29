@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'DatePicker.RangePicker',
   title: '日期区间选择',
-  category: '表单',
+  group: 'antd',
+category: '表单',
   props: [
     {
       title: '值设置',

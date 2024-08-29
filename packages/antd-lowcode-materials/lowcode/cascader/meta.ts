@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Cascader',
   title: '级联选择',
-  category: '表单',
+  group: 'antd',
+category: '表单',
   props: [
     {
       name: 'defaultValue',

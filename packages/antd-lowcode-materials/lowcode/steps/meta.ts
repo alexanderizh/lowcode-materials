@@ -6,7 +6,8 @@ export default {
   snippets,
   componentName: 'Steps',
   title: '步骤条',
-  category: '导航',
+  group: 'antd',
+category: '导航',
   props: [
     {
       name: 'steps',

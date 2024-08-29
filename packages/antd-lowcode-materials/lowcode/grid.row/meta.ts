@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Row',
   title: '栅格-行',
-  category: '布局',
+  group: 'antd',
+category: '布局',
   props: [
     {
       name: 'align',

@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Typography.Text',
   title: '文本',
-  category: '基础',
+  group: 'antd',
+category: '基础',
   props: [
     {
       name: 'children',

@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Alert',
   title: '警告提示',
-  category: '反馈',
+  group: 'antd',
+category: '反馈',
   props: [
     {
       name: 'afterClose',

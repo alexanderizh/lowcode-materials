@@ -6,7 +6,8 @@ export default {
   snippets,
   componentName: 'AutoComplete',
   title: '辅助提示输入框',
-  category: '表单',
+  group: 'antd',
+category: '表单',
   props: [
     {
       name: 'defaultValue',

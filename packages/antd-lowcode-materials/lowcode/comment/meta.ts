@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Comment',
   title: '评论',
-  category: '数据展示',
+  group: 'antd',
+category: '数据展示',
   props: [
     {
       name: 'actions',

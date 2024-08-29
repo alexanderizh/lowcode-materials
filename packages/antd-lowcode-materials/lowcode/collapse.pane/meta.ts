@@ -3,7 +3,8 @@
 export default {
   componentName: 'Collapse.Panel',
   title: '折叠项',
-  category: '',
+  group: 'antd',
+category: '',
   props: [
     {
       name: 'key',

@@ -12,7 +12,8 @@ export default [
         items: [
           {
             key: 'item-i5wd',
-            category: 'Menu.Item',
+            group: 'antd',
+category: 'Menu.Item',
             children: '菜单名',
           },
         ],

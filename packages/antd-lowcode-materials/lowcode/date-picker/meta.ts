@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'DatePicker',
   title: '日期选择框',
-  category: '表单',
+  group: 'antd',
+category: '表单',
   props: [
     {
       title: '值设置',

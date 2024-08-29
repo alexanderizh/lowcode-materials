@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'TreeSelect',
   title: '树选择',
-  category: '表单',
+  group: 'antd',
+category: '表单',
   props: [
     {
       name: 'treeData',

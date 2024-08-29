@@ -3,7 +3,8 @@
 export default {
   componentName: 'Tabs.TabPane',
   title: '标签页项',
-  category: '',
+  group: 'antd',
+category: '',
   props: [
     {
       name: 'key',

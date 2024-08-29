@@ -7,7 +7,8 @@ export default {
   snippets,
   componentName: 'Menu',
   title: '导航菜单',
-  category: '导航',
+  group: 'antd',
+category: '导航',
   props: [
     {
       name: 'items',
@@ -70,7 +71,8 @@ export default {
             initialValue: () => {
               return {
                 key: 'item-' + uuid(),
-                category: 'Menu.Item',
+                group: 'antd',
+category: 'Menu.Item',
                 children: '菜单名',
               };
             },

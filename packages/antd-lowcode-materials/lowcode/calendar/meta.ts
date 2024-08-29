@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Calendar',
   title: '日历',
-  category: '数据展示',
+  group: 'antd',
+category: '数据展示',
   props: [
     {
       name: 'defaultValue',

@@ -4,7 +4,8 @@ export default {
   snippets,
   componentName: 'Statistic',
   title: '统计数值',
-  category: '数据展示',
+  group: 'antd',
+category: '数据展示',
   props: [
     {
       name: 'decimalSeparator',
